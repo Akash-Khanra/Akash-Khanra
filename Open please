@@ -1,0 +1,66 @@
+
+<html>
+<head>
+<title>Page Title</title>
+<style>
+
+
+          H2 {
+color: Red; font-family: "Times New Roman", Serif;
+font-size: 20px; background: yellow;
+padding: 20px 20px 20px 80px;
+border-width: 5px; border-color: solid red; border-style: dashed;}
+          p {
+ color: red; font-family: "courier";
+font-size: 30px; 
+border-width: 5px; border-color: yellow; border-style: dashed;}
+
+
+
+
+</style>
+
+
+</head>
+<font color="red"><h2>
+<marquee behavior="alternate">HAPPY BIRTHDAY TO YOU</marquee></font></h2>
+
+<br>
+<br>
+
+<body background="https://i.pinimg.com/736x/61/b3/aa/61b3aa0c8fac8e508dcada72f7f41840.jpg">
+<center>
+<marquee direction="down" width="250" height="200" behavior="alternate" style="border: dashed yellow 4px"> 
+<marquee behavior="alternate">
+<font color="white">
+<img src= "https://1.bp.blogspot.com/-Hq6GFzz5Y0Y/X_bzR10nGlI/AAAAAAAAHqU/SgP5FqnDUkkkHJTZGvT5MVkgxh5mmYMswCNcBGAsYHQ/w460-h241/%25E0%25A6%25B6%25E0%25A7%2581%25E0%25A6%25AD-%25E0%25A6%259C%25E0%25A6%25A8%25E0%25A7%258D%25E0%25A6%25AE%25E0%25A6%25A6%25E0%25A6%25BF%25E0%25A6%25A8-%25E0%25A6%25A6%25E0%25A7%258B%25E0%25A6%25B8%25E0%25A7%258D%25E0%25A6%25A4.png" height="50" width="100">
+<br><H3>HAPPY BIRTHDAY<br> 
+KOUSTAV</H3></font>
+</marquee>
+</marquee>
+
+
+<font face="courier" color="white"><h3>
+A wish for you on your birthday<br>
+, whatever you ask may you receive, <br>
+whatever you seek may you find,<br>
+ whatever you wish may it be fulfilled on your birthday and always.
+<br>May you be gifted with life’s biggest joys<br>
+ and never-ending bliss.<br> After all, you yourself are a gift to earth, <br>so you deserve the best.
+
+</font><BR>
+<br>
+<p>
+
+<font color="white">
+<marquee>! ! HAPPY BIRTHDAY TO YOU ! !</marquee>
+   
+
+ 
+
+</font>
+</p>
+
+
+</body>
+</html>
